@@ -9,6 +9,10 @@ function somar(valorUm, valorDois) {
 }
 
 function subtrair() {
+    var nadaAVer = "ja era"
+}
+
+function Dividir() {
 
 }
 
