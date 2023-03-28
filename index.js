@@ -8,6 +8,10 @@ function somar(valorUm, valorDois) {
     return parseInt(valorUm) + parseInt(valorDois)
 }
 
+function subtrair() {
+    
+}
+
 function main() {
     console.log('Hello World')
 
