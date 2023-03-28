@@ -16,6 +16,10 @@ function Dividir() {
 
 }
 
+function RaizQuadrada(numero) {
+    
+}
+
 function main() {
     console.log('Hello World')
 
