@@ -9,6 +9,10 @@ function somar(valorUm, valorDois) {
 }
 
 function subtrair() {
+
+}
+
+function RaizQuadrada(numero) {
     
 }
 
