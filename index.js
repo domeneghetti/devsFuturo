@@ -12,6 +12,10 @@ function subtrair() {
     var nadaAVer = "ja era"
 }
 
+function Dividir() {
+
+}
+
 function main() {
     console.log('Hello World')
 
